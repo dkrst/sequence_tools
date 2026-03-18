@@ -1,5 +1,5 @@
 STEP 1:
-Extract positive (smok) and negative (no smoke) samples from sequences.
+Extract positive (smoke) and negative (no smoke) samples from sequences.
 Start on all sequences:
 
 augmented_yolo_set.py -i <input_dir> -o <output_dir> [-r -l -h]
